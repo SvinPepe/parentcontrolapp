@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parent Control</string>
+    <string name="notification_channel_name">Screen Time Tracking</string>
+    <string name="notification_channel_desc">Tracks device usage time</string>
+
+    <!-- Для кнопок -->
+    <string name="start_button">Start Parental Control</string>
+    <string name="settings_button">Reset Usage (Demo)</string>
+    <string name="unlock_button">Unlock with Task</string>
+    <string name="submit_button">Submit</string>
+</resources>
